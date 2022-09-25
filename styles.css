@@ -3,6 +3,8 @@
     src: url(fonts/Roboto/Roboto-Regular.ttf);
 }
 
+/* Color palette http://paletton.com/#uid=1450u0ke5hM7PrnbxmgiDe3n-b9 */
+
 :root {
     font-family: "Roboto";
     font-size: 16pt;
